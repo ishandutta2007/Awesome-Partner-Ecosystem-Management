@@ -1,0 +1,2 @@
+# Awesome-Partner-Ecosystem-Management
+
